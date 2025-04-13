@@ -2769,10 +2769,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chrome@^0.0.188":
-  version "0.0.188"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.188.tgz#ed73feca28a6d84f796ec50a2dbe7e41510175b3"
-  integrity sha512-fVxbcnSrQqCaaTFfaP9QooRr0Lf47Ni+QVGpd4SQafe6x8RlLrlp+AAgc4QKNUVK7W6xEoOePMAu5sBXrc2qhA==
+"@types/chrome@^0.0.308":
+  version "0.0.308"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.308.tgz#468a7ad2895bb6c95904539bab6f7b6a7507010b"
+  integrity sha512-H5VF01xhUQHwNy8Hfu4khwHJncyckw7IEricOqrIBan8gsDXnBu5A3qJ15him8Kx+YY6lNkrXZGJajEUSGRsRQ==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
